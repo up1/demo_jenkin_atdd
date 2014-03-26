@@ -2,7 +2,7 @@
 Library        Selenium2Library
 
 *** Variables ***
-${HOME_URL}     http://demo-jenkins-web.herokuapp.com/
+${HOME_URL}     http://demo-jenkins-web.herokuapp.com
 
 *** Test Cases ***
 Rule for Convert score to grade 
